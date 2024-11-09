@@ -93,7 +93,7 @@ Autenticação é necessária para acessar a API. Utilize um token JWT (JSON Web
 
 1. Clone o repositório.
    ```bash
-   git clone https://github.com/seu-usuario/sua-api-de-viagens.git
+   git clone https://github.com/Arthurferre1ra/plann.er.git
    ```
 2. Instale as dependências do Maven.
    ```bash
