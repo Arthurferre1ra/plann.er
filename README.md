@@ -97,7 +97,7 @@ Autenticação é necessária para acessar a API. Utilize um token JWT (JSON Web
    ```
 2. Instale as dependências do Maven.
    ```bash
-   cd sua-api-de-viagens
+   cd plann.er
    mvn install
    ```
 3. Configure as variáveis de ambiente no arquivo `application.properties`.
