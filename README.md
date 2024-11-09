@@ -116,12 +116,6 @@ Autenticação é necessária para acessar a API. Utilize um token JWT (JSON Web
 - JWT para autenticação
 - JavaMailSender para envio de e-mails
 
-## Autenticação
-
-Para utilizar a API, é necessário autenticar-se. A autenticação é feita via JWT, onde cada requisição deve conter o token no cabeçalho `Authorization`:
-
-```plaintext
-Authorization: Bearer <seu_token>
 ```
 
 ## Exemplo de Resposta
